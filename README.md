@@ -1,6 +1,6 @@
 # Flappy Bird Q-Learning (RL) Trainer
 
-A Q-learning based training implementation for the Flappy Bird gane, built using Pygame. The agent learns to play Flappy Bird through a trial-and-error-based reinforcement learning (Q-Learning) approach, improving its performance over time.
+A Q-learning–based reinforcement learning agent that learns to play the Flappy Bird game using Pygame. The agent improves over time through trial-and-error interactions with the game environment.
 
 ## Requirements
 
