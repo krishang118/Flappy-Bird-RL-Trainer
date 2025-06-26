@@ -8,7 +8,7 @@ A Q-learning–based reinforcement learning agent that learns to play the Flappy
 - Pygame
 - NumPy
 
-Install dependencies with:
+Install the dependencies with:
 ```bash
 pip install pygame numpy
 ```
